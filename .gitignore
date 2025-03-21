@@ -3,13 +3,13 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 .utmp/
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Card Bridge Game/[Ll]ibrary/
+Card Bridge Game/[Tt]emp/
+Card Bridge Game/[Oo]bj/
+Card Bridge Game/[Bb]uild/
+Card Bridge Game/[Bb]uilds/
+Card Bridge Game/[Ll]ogs/
+Card Bridge Game/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
